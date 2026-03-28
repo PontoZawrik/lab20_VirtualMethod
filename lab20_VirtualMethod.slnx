@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="examples/examples.vcxproj" />
+  <Project Path="lab20_VirtualMethod/lab20_VirtualMethod.vcxproj" />
+</Solution>
